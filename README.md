@@ -1,7 +1,7 @@
 # QR Code Online Generator
 I was tired of using expensive and annoying QR Code generators online. So I made a FREE and perpetual (will never expire) QR Code generator.
 
-![alt text](https://github.com/jdcampolargo/qrcode_website/blob/main/src/Screen%20Shot%202021-12-21%20at%203.22.47%20PM.png)
+![alt text](https://github.com/jdcampolargo/qrcode_website/blob/main/src/Screen%20Shot%202021-12-21%20at%203.22.47%20PM%20(1).jpg)
 
 
 Access it [here](https://jdcampolargo.github.io/qrcode_website/)
