@@ -32,6 +32,5 @@ Inspiration, code snippets, etc.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Share
-* [Link](tinyurl.com/qrcodewebsite)
+* [Link](https://tinyurl.com/qrcodewebsite)
 
-markdown: kramdown
